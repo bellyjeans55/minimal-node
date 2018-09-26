@@ -1,0 +1,1 @@
+Minimal template for starting a node project using latest ECMAScript.
